@@ -28,7 +28,7 @@ public class MultiTierDiscountSystem {
 
         System.out.println("===== DISCOUNT SYSTEM =====");
         System.out.println("Purchase Amount: PHP " + purchaseAmount);
-        System.out.println("Discount Tier: " + discountRate + "%");
+        System.out.println("Discount Tier: " + discountRate);
         System.out.println("Final Discounted Price: PHP " + finalPrice);
     }
 }
