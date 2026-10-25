@@ -11,7 +11,7 @@ package Activities;
 public class FavoriteThingsArray {
     public static void main(String[] args) {
          
-        String[] favorites = {"Mobile Games", "Manhwa", "Pokemon", "Movies", "Food"};
+        String[] favorites = {"Money", "Food", "Mobile Games", "Manhwa", "Movies"};
 
         System.out.println("===== MY FAVORITE THINGS =====");
 
