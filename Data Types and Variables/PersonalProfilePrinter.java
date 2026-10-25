@@ -22,6 +22,6 @@ public class PersonalProfilePrinter {
         System.out.println("Age: " + age);
         System.out.println("Height: " + height + " meters");
         System.out.println("Initial: " + initial);
-        System.out.println("Student Status (Enrolled): " + studentStatus);
+        System.out.println("Student Status" + (studentStatus ? "Enrolled" : "Not Enrolled"));
     }
 }
